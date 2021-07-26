@@ -1,0 +1,15 @@
+---
+title: "Evolving Deep Convolutional Neural Networks for Hyperspectral Image Denoising"
+collection: publications
+permalink: /publication/paper3
+excerpt: 'Hyperspectral images (HSIs) are susceptible to various noise factors leading to the loss of information, and the noise restricts the subsequent HSIs object detection and classification tasks. In recent years, learning-based methods have demonstrated their superior strengths in denoising the HSIs. Unfortunately, most of the methods are manually designed based on the extensive expertise that is not necessarily available to the users interested. In this paper, we propose a novel algorithm to automatically build an optimal Convolutional Neural Network (CNN) to effectively denoise HSIs. Particularly, the proposed algorithm focuses on the architectures and the initialization of the connection weights of the CNN. The experiments of the proposed algorithm have been well-designed and compared against the state-of-the-art peer competitors, and the experimental results demonstrate the competitive performance of the proposed algorithm in terms of the different evaluation metrics, visual assessments, and the computational complexity.'
+date: 2020-07-19
+venue: '2020 International Joint Conference on Neural Networks (IJCNN)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9207509/'
+citation: 'Liu, Y., Sun, Y., Xue, B., & Zhang, M. (2020, July). Evolving Deep Convolutional Neural Networks for Hyperspectral Image Denoising. In 2020 International Joint Conference on Neural Networks (IJCNN) (pp. 1-8). IEEE.'
+---
+Hyperspectral images (HSIs) are susceptible to various noise factors leading to the loss of information, and the noise restricts the subsequent HSIs object detection and classification tasks. In recent years, learning-based methods have demonstrated their superior strengths in denoising the HSIs. Unfortunately, most of the methods are manually designed based on the extensive expertise that is not necessarily available to the users interested. In this paper, we propose a novel algorithm to automatically build an optimal Convolutional Neural Network (CNN) to effectively denoise HSIs. Particularly, the proposed algorithm focuses on the architectures and the initialization of the connection weights of the CNN. The experiments of the proposed algorithm have been well-designed and compared against the state-of-the-art peer competitors, and the experimental results demonstrate the competitive performance of the proposed algorithm in terms of the different evaluation metrics, visual assessments, and the computational complexity.
+
+[Download paper here](https://arxiv.org/pdf/2008.06634)
+
+Recommended citation: Liu, Y., Sun, Y., Xue, B., & Zhang, M. (2020, July). Evolving Deep Convolutional Neural Networks for Hyperspectral Image Denoising. In 2020 International Joint Conference on Neural Networks (IJCNN) (pp. 1-8). IEEE.

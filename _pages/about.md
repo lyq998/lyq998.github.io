@@ -11,3 +11,5 @@ redirect_from:
 You can contact with me using the left side tabs.
 
 You can also view other information about me using the navigations at the top.
+
+May be updated in the future...
